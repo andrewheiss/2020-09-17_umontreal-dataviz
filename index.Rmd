@@ -25,7 +25,7 @@ output:
 xaringanExtra::embed_xaringan(url = "slides.html", ratio = "16:9")
 ```
 
-View the R Markdown source for the slides at GitHub.
+View the [R Markdown source for the slides at GitHub](https://github.com/andrewheiss/2020-09-17_umontreal-dataviz).
 
 ## Resources
 
