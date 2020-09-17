@@ -1,0 +1,21 @@
+---
+output: github_document
+---
+
+# Truth, Beauty, and Data:<br>Why Data Visualization Matters in Research
+
+[Andrew Heiss, PhD](https://www.andrewheiss.com)  
+Andrew Young School of Policy Studies  
+Georgia State University
+ 
+Methods workshop  
+Département de science politique  
+Université de Montréal
+
+September 17, 2020
+
+---
+
+## Slides and resources
+
+Access [all the slides and additional resources here](https://talks.andrewheiss.com/2020-09-17_umontreal-dataviz/).
