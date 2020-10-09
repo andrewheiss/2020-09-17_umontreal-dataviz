@@ -32,8 +32,8 @@ View the [R Markdown source for the slides at GitHub](https://github.com/andrewh
 ### Data visualization
 
 - Andrew Heiss, ["Data Visualization with R"](https://datavizm20.classes.andrewheiss.com/) (free online course)
-- Kieran Healy,[ *Data Visualization for Social Science: A practical introduction with R and ggplot2*](http://socviz.co/)
-- Claus Wilke, [*Fundamentals of Data Visualization*](https://serialmentor.com/dataviz/)
+- Kieran Healy, [ *Data Visualization for Social Science: A practical introduction with R and ggplot2*](http://socviz.co/)
+- Claus Wilke, [*Fundamentals of Data Visualization*](https://clauswilke.com/dataviz/)
 - Alberto Cairo, *The Truthful Art: Data, Charts, and Maps for Communication* 
 - Stephanie D. H. Evergreen, *Effective Data Visualization: The Right Chart for the Right Data*
 - Dona M. Wong, *The Wall Street Journal Guide to Information Graphics: The Dos and Don’ts of Presenting Data, Facts, and Figures* 
